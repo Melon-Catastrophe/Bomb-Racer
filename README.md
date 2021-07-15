@@ -6,7 +6,7 @@ I have always wanted to make a 3D game, and this is my first one! It is a very s
 
 To play the game, use the WASD keys to control your car. The barriers will move out of the way when you hit them, but they're still a nuisance, so avoiding them is good. Definitely avoid the bombs—there is a small chance they might send your car high into the sky, and you can't control where your car goes if it is not touching the ground.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/2s8L7sjlpTs)
 
 # Development Environment
 
